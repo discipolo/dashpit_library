@@ -1,0 +1,15 @@
+{
+    "name": "friendly/dashpit_library",
+    "description": "dashpit library",
+    "authors": [
+        {
+            "name": "Discipolo",
+            "email": "discipolo@105174.no-reply.drupal.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "dashpit\\":"src/"
+        }
+    }
+}
